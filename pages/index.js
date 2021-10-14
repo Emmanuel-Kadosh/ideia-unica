@@ -36,7 +36,7 @@ function Contador() {
         setRes(
             <div>
                 <div><h1>Resultado: </h1></div>
-                <h2>Quantas vezes Luciano Comeu Ricardo: {contador}</h2>
+                <h2>Valor do contador: {contador}</h2>
             </div>
         )
     }
