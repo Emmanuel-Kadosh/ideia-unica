@@ -12,10 +12,7 @@ function Home() {
 
 function Contador() {
     var [contador, setContador] = useState(1);
-    var [Res, setRes] = useState((
-        <div>
-        </div>
-        ));
+    var [Res, setRes] = useState(<div></div>);
 
     return (
         <div>
