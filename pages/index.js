@@ -4,7 +4,7 @@ function Home() {
 
     return (
         <div>
-            <h1>Luciano é o Cara!</h1>
+            <h1>Teste Simples</h1>
             <Contador />
         </div> 
     )
